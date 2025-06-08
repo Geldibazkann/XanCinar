@@ -1,0 +1,494 @@
+@font-face {
+  font-family: ban;
+  src: url(../fonts/BAHNSCHRIFT.TTF);
+}
+@font-face {
+  font-family: Pop;
+  src: url(../fonts/tahoma-bold.ttf);
+}
+@font-face {
+  font-family: tw;
+  src: url(../fonts/TwCenMTStd.otf);
+}
+@font-face {
+  font-family: nun;
+  src: url(../fonts/Nunito-VariableFont_wght.ttf);
+}
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+.um {
+  display: flex;
+  justify-content: center;
+  background-image: none;
+}
+.logo {
+  background-image: none;
+  font-size: 4rem;
+  color: #0f5132;
+  font-family: nun;
+  margin-top: 15px;
+}
+.men {
+  font-family: nun;
+  display: flex;
+  justify-content: center;
+  color: #0f5132;
+  background-image: none;
+  font-size: 2rem;
+  margin-top: 5px;
+}
+.linem {
+  display: flex;
+  height: 3px;
+  background-color: #0f5132;
+  width: 90%;
+  justify-content: center;
+  margin-top: 15px;
+  margin-left: 5%;
+}
+.sehimg {
+  width: 90%;
+  height: 220px;
+  border-radius: 15px;
+  margin-left: 5%;
+}
+.seh {
+  margin-top: 10px;
+}
+.sehh2 {
+  font-family: Pop;
+  display: flex;
+  justify-content: center;
+  color: #0f5132;
+  border: 1px solid;
+  border-radius: 15px;
+  width: 89%;
+  margin-left: 5.5%;
+  margin-top: 5px;
+  font-size: 1.4rem;
+}
+.sehimen {
+  font-family: ban;
+  color: #0f5132;
+  display: flex;
+  margin-top: 10px;
+  font-size: 0.9rem;
+  width: 75%;
+  justify-content: space-between;
+  margin-left: 12.5%;
+}
+.sehmen {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.sehimen div {
+  display: flex;
+  justify-content: space-between;
+}
+.cayimg {
+  width: 90%;
+  height: 220px;
+  border-radius: 15px;
+  margin-left: 5%;
+  margin-top: 20px;
+}
+.cayy {
+  font-family: Pop;
+  display: flex;
+  justify-content: center;
+  color: #0f5132;
+  border: 1px solid;
+  border-radius: 15px;
+  width: 89%;
+  margin-left: 5.5%;
+  margin-top: 5px;
+  font-size: 1.4rem;
+}
+.cayimen {
+  font-family: ban;
+  color: #0f5132;
+  display: flex;
+  margin-top: 10px;
+  font-size: 0.9rem;
+  width: 75%;
+  justify-content: space-between;
+  margin-left: 12.5%;
+}
+.caymen {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.caymen div {
+  display: flex;
+  justify-content: space-between;
+}
+.cay {
+  margin-top: 10px;
+}
+.qaz {
+  margin-top: 10px;
+}
+.qazmen {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.qazmen div {
+  display: flex;
+  justify-content: space-between;
+}
+.qazz {
+  font-family: Pop;
+  display: flex;
+  justify-content: center;
+  color: #0f5132;
+  border: 1px solid;
+  border-radius: 15px;
+  width: 89%;
+  margin-left: 5.5%;
+  margin-top: 5px;
+  font-size: 1.4rem
+}
+.qazimen {
+  font-family: ban;
+  color: #0f5132;
+  display: flex;
+  margin-top: 10px;
+  font-size: 0.9rem;
+  width: 75%;
+  justify-content: space-between;
+  margin-left: 12.5%;
+}
+.qazimg {
+  width: 90%;
+  height: 220px;
+  border-radius: 15px;
+  margin-left: 5%;
+  margin-top: 20px;
+}
+.sorba {
+  margin-top: 10px;
+}
+.sorbaa {
+  font-family: Pop;
+  display: flex;
+  justify-content: center;
+  color: #0f5132;
+  border: 1px solid;
+  border-radius: 15px;
+  width: 89%;
+  margin-left: 5.5%;
+  margin-top: 5px;
+  font-size: 1.4rem;
+}
+.sorbaimg {
+  width: 90%;
+  height: 220px;
+  border-radius: 15px;
+  margin-left: 5%;
+  margin-top: 20px;
+}
+.sorbaimen {
+  font-family: ban;
+  color: #0f5132;
+  display: flex;
+  margin-top: 10px;
+  font-size: 0.9rem;
+  width: 75%;
+  justify-content: space-between;
+  margin-left: 12.5%;
+}
+.sorbamen div {
+  display: flex;
+  justify-content: space-between;
+}
+.kababmen div {
+  display: flex;
+  justify-content: space-between;
+}
+.kababimen {
+  font-family: ban;
+  color: #0f5132;
+  display: flex;
+  margin-top: 10px;
+  font-size: 0.9rem;
+  width: 75%;
+  justify-content: space-between;
+  margin-left: 12.5%;
+}
+.kabab {
+  margin-top: 10px;
+}
+.kababimg {
+  width: 90%;
+  height: 220px;
+  border-radius: 15px;
+  margin-left: 5%;
+  margin-top: 20px;
+}
+.kababb {
+  font-family: Pop;
+  display: flex;
+  justify-content: center;
+  color: #0f5132;
+  border: 1px solid;
+  border-radius: 15px;
+  width: 89%;
+  margin-left: 5.5%;
+  margin-top: 5px;
+  font-size: 1.4rem;
+}
+.tendir {
+  margin-top: 10px;
+}
+.tendirr {
+  font-family: Pop;
+  display: flex;
+  justify-content: center;
+  color:#0f5132;
+  border: 1px solid;
+  border-radius: 15px;
+  width: 89%;
+  margin-left: 5.5%;
+  margin-top: 5px;
+  font-size: 1.4rem;
+}
+.tendirimg {
+  width: 90%;
+  height: 220px;
+  border-radius: 15px;
+  margin-left: 5%;
+  margin-top: 20px;
+}
+.tendirmen div {
+  display: flex;
+  justify-content: space-between;
+}
+.tendirimen {
+  font-family: ban;
+  color: #0f5132;
+  display: flex;
+  margin-top: 10px;
+  font-size: 0.9rem;
+  width: 75%;
+  justify-content: space-between;
+  margin-left: 12.5%;
+}
+.baliqimen {
+  font-family: ban;
+  color: #0f5132;
+  display: flex;
+  margin-top: 10px;
+  font-size: 0.9rem;
+  width: 75%;
+  justify-content: space-between;
+  margin-left: 12.5%;
+}
+.baliqimg {
+  width: 90%;
+  height: 220px;
+  border-radius: 15px;
+  margin-left: 5%;
+  margin-top: 20px;
+}
+.baliqq div {
+  display: flex;
+  justify-content: space-between;
+}
+.baliqq {
+  font-family: Pop;
+  display: flex;
+  justify-content: center;
+  color: #0f5132;
+  border: 1px solid;
+  border-radius: 15px;
+  width: 89%;
+  margin-left: 5.5%;
+  margin-top: 5px;
+  font-size: 1.4rem;
+}
+.baliq {
+  margin-top: 10px;
+}
+.salat {
+  margin-top: 10px;
+}
+.salatt {
+  font-family: Pop;
+  display: flex;
+  justify-content: center;
+  color: #0f5132;
+  border: 1px solid;
+  border-radius: 15px;
+  width: 89%;
+  margin-left: 5.5%;
+  margin-top: 5px;
+font-size: 1.4rem;
+}
+.salatt div {
+  display: flex;
+  justify-content: space-between;
+}
+.salatimg {
+  width: 90%;
+  height: 220px;
+  border-radius: 15px;
+  margin-left: 5%;
+  margin-top: 20px;
+}
+.salatimen {
+  font-family: ban;
+  color: #0f5132;
+  display: flex;
+  margin-top: 10px;
+  font-size: 0.9rem;
+  width: 75%;
+  justify-content: space-between;
+  margin-left: 12.5%;
+}
+.icki {
+  margin-top: 10px;
+}
+.ickii {
+  font-family: Pop;
+  display: flex;
+  justify-content: center;
+  color: #0f5132;
+  border: 1px solid;
+  border-radius: 15px;
+  width: 89%;
+  margin-left: 5.5%;
+  margin-top: 5px;
+  font-size: 1.4rem;
+}
+.ickii div {
+  display: flex;
+  justify-content: space-between;
+}
+.ickiimg {
+  width: 90%;
+  height: 220px;
+  border-radius: 15px;
+  margin-left: 5%;
+  margin-top: 20px;
+}
+.ickiimen {
+  font-family: ban;
+  color: #0f5132;
+  display: flex;
+  margin-top: 10px;
+  font-size: 0.9rem;
+  width: 75%;
+  justify-content: space-between;
+  margin-left: 12.5%;
+}
+.soy {
+  margin: top 10px;
+}
+.soyy {
+  font-family: Pop;
+  display: flex;
+  justify-content: center;
+  color: #0f5132;
+  border: 1px solid;
+  border-radius: 15px;
+  width: 89%;
+  margin-left: 5.5%;
+  margin-top: 5px;
+  font-size: 1.4rem;
+}
+.soy div {
+  display: flex;
+  justify-content: space-between;
+}
+.soymen {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.soyimg {
+  width: 90%;
+  height: 220px;
+  border-radius: 15px;
+  margin-left: 5%;
+  margin-top: 20px;
+}
+.soyimen {
+  font-family: ban;
+  color: #0f5132;
+  display: flex;
+  margin-top: 10px;
+  font-size: 0.9rem;
+  width: 75%;
+  justify-content: space-between;
+  margin-left: 12.5%;
+}
+.el {
+  margin-top: 10px;
+}
+.elimen {
+  font-family: ban;
+  color: #0f5132;
+  display: flex;
+  margin-top: 10px;
+  font-size: 0.9rem;
+  width: 75%;
+  justify-content: space-between;
+  margin-left: 12.5%;
+}
+.ell {
+  font-family: Pop;
+  display: flex;
+  justify-content: center;
+  color: #0f5132;
+  border: 1px solid;
+  border-radius: 15px;
+  width: 89%;
+  margin-left: 5.5%;
+  margin-top: 5px;
+  font-size: 1.4rem ;
+}
+.nush {
+  display: flex;
+  justify-content: center;
+  margin-top: 20%;
+  font-family: ban;
+  color: #0f5132;
+  font-size: 2rem;
+  border-radius: 18px;
+  width: 60%;
+  margin-left: 20%;
+}
+.huc{
+  display: flex;
+  justify-content: center;
+  margin-top: 18%;
+  font-family: ban;
+  color: #0f5132;
+  width: 90%;
+  margin-left: 5%;
+  font-size: 0.8rem;
+  margin-bottom: 2.5%;
+
+}
+.hucic{
+  display: flex;
+  flex-direction: column;
+}
+.bes{
+  display: flex;
+  justify-content: center;
+}
+.nor{
+  display: flex;
+  justify-content: center;
+}
+.hucicc{
+  font-size: 1rem;
+}
