@@ -467,7 +467,7 @@ font-size: 1.4rem;
 }
 .huc{
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   margin-top: 18%;
   font-family: ban;
   color: #0f5132;
@@ -490,5 +490,5 @@ font-size: 1.4rem;
   justify-content: center;
 }
 .hucicc{
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
