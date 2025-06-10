@@ -29,7 +29,7 @@
 .logo {
   background-image: none;
   font-size: 4rem;
-  color: #4B251C;
+  color:#800000;
   font-family: nun;
   margin-top: 15px;
 }
@@ -37,7 +37,7 @@
   font-family: nun;
   display: flex;
   justify-content: center;
-  color: #4B251C;
+  color: #800000;
   background-image: none;
   font-size: 2rem;
   margin-top: 5px;
@@ -64,7 +64,7 @@
   font-family: Pop;
   display: flex;
   justify-content: center;
-  color: #4B251C;
+  color: #800000;
   border: 1px solid;
   border-radius: 15px;
   width: 89%;
@@ -74,7 +74,7 @@
 }
 .sehimen {
   font-family: ban;
-  color: #4B251C;
+  color: #800000;
   display: flex;
   margin-top: 10px;
   font-size: 0.9rem;
@@ -148,7 +148,7 @@
   font-family: Pop;
   display: flex;
   justify-content: center;
-  color: #39C5BB;
+  color: #800000;
   border: 1px solid;
   border-radius: 15px;
   width: 89%;
@@ -158,7 +158,7 @@
 }
 .qazimen {
   font-family: ban;
-  color: #39C5BB;
+  color: #800000;
   display: flex;
   margin-top: 10px;
   font-size: 0.9rem;
@@ -180,7 +180,7 @@
   font-family: Pop;
   display: flex;
   justify-content: center;
-  color: #FF4000;
+  color: #800000;
   border: 1px solid;
   border-radius: 15px;
   width: 89%;
@@ -197,7 +197,7 @@
 }
 .sorbaimen {
   font-family: ban;
-  color: #FF4000;
+  color: #800000;
   display: flex;
   margin-top: 10px;
   font-size: 0.9rem;
@@ -215,7 +215,7 @@
 }
 .kababimen {
   font-family: ban;
-  color: #E49E61;
+  color: #800000;
   display: flex;
   margin-top: 10px;
   font-size: 0.9rem;
@@ -237,7 +237,7 @@
   font-family: Pop;
   display: flex;
   justify-content: center;
-  color: #E49E61;
+  color: #800000;
   border: 1px solid;
   border-radius: 15px;
   width: 89%;
@@ -252,7 +252,7 @@
   font-family: Pop;
   display: flex;
   justify-content: center;
-  color:#724E30;
+  color:#800000;
   border: 1px solid;
   border-radius: 15px;
   width: 89%;
@@ -273,7 +273,7 @@
 }
 .tendirimen {
   font-family: ban;
-  color: #724E30;
+  color: #800000;
   display: flex;
   margin-top: 10px;
   font-size: 0.9rem;
@@ -283,7 +283,7 @@
 }
 .baliqimen {
   font-family: ban;
-  color: #0f5132;
+  color: #800000;
   display: flex;
   margin-top: 10px;
   font-size: 0.9rem;
@@ -306,7 +306,7 @@
   font-family: Pop;
   display: flex;
   justify-content: center;
-  color: #0f5132;
+  color: #800000;
   border: 1px solid;
   border-radius: 15px;
   width: 89%;
@@ -324,7 +324,7 @@
   font-family: Pop;
   display: flex;
   justify-content: center;
-  color: #0f5132;
+  color: #800000;
   border: 1px solid;
   border-radius: 15px;
   width: 89%;
@@ -360,7 +360,7 @@ font-size: 1.4rem;
   font-family: Pop;
   display: flex;
   justify-content: center;
-  color: #964B00;
+  color: #800000;
   border: 1px solid;
   border-radius: 15px;
   width: 89%;
@@ -381,7 +381,7 @@ font-size: 1.4rem;
 }
 .ickiimen {
   font-family: ban;
-  color: #724E30;
+  color: #800000;
   display: flex;
   margin-top: 10px;
   font-size: 0.9rem;
@@ -396,7 +396,7 @@ font-size: 1.4rem;
   font-family: Pop;
   display: flex;
   justify-content: center;
-  color: #964B00;
+  color: #800000;
   border: 1px solid;
   border-radius: 15px;
   width: 89%;
@@ -422,7 +422,7 @@ font-size: 1.4rem;
 }
 .soyimen {
   font-family: ban;
-  color: #964B00;
+  color: #800000;
   display: flex;
   margin-top: 10px;
   font-size: 0.9rem;
@@ -460,7 +460,7 @@ font-size: 1.4rem;
   justify-content: center;
   margin-top: 20%;
   font-family: ban;
-  color: #0f5132;
+  color: #800000;
   font-size: 2rem;
   border-radius: 18px;
   width: 60%;
@@ -471,7 +471,7 @@ font-size: 1.4rem;
   justify-content: space-between;
   margin-top: 18%;
   font-family: ban;
-  color: #0f5132;
+  color: #800000;
   width: 90%;
   margin-left: 5%;
   font-size: 0.8rem;
